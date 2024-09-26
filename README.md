@@ -26,6 +26,6 @@ Dakota Rental adalah aplikasi manajemen penyewaan mobil berbasis web.
     cd dakota-rental
 3. Instal dependensi dengan Composer:
    ```bash
-composer install
+    composer install
 4. Konfigurasi database di file .env.
 5. Jalankan aplikasi pada server lokal.
